@@ -1,6 +1,6 @@
 ## Running the project
 
-You need an ElephantSQL database. Put those credentials in a .env file in the backend directory (see below for sample .env file). Then run ```npm i``` to install all the required packages in both the backend and frontend directories. Once all the packages are installed, simply run ```npm run dev``` in both the backend and frontend directories and you're good to go!
+You need an ElephantSQL database. Put those credentials in a .env file in the backend directory (see below for sample .env file). Then run ```npm i``` in both the backend and frontend directories to install all the required packages. Once all the packages are installed, simply run ```npm run dev``` in both the backend and frontend directories and you're good to go!
 
 
 ### Sample .env file
